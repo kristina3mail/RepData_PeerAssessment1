@@ -3,7 +3,7 @@ title: "Reproducible Research Assignment 1"
 author: "Kristina Elliott"
 output: 
     html_document
---
+---
 ##Loading the data
 First you will want to download the dataset and place into a folder on your computer. Then set your work directory to folder where you placed the dataset.
 I am working in Window and in RStudio. 
